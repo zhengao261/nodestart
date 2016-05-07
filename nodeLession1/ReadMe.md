@@ -2,15 +2,18 @@
 > 来自七天学会NodeJS
 
 * 文件操作
-   - buffer stream 
+    
 * 开门红
 * 小文件拷贝
 * 大文件拷贝
 * API走马观花
 * Buffer（数据块）
+        [buffer中文API](http://nodeapi.ucdok.com/#/api/buffer.html)
 * Stream（数据流）
 * File System（文件系统）
+        [fs中文API](http://nodeapi.ucdok.com/#/api/fs.html)
 * Path（路径）
+        [path中文API](http://nodeapi.ucdok.com/#/api/path.html)
 * 遍历目录
 * 递归算法
 * 遍历算法
